@@ -5,7 +5,8 @@
  */
 
 // @lc code=start
-public class Solution {
+public class Solution 
+{
     public bool IsHappy(int n) 
     {
         HashSet<int> hashSet = new HashSet<int>();
